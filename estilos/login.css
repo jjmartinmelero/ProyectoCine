@@ -1,0 +1,30 @@
+
+html, body {
+	
+	background-image: url("/imagenes/salaLogin.jpg");
+
+  background-position: center center;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+  background-size: cover;
+
+
+}
+
+#caja {
+
+  margin-top: 5%;
+  display: flex;
+  /* vertical center */
+  align-items: center;
+  /* horizontal center */
+  justify-content: center;
+}
+
+#tarjetaLogin{
+	width:420px;
+}
+

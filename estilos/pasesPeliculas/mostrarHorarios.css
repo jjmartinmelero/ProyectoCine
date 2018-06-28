@@ -1,0 +1,15 @@
+html, body{
+	height: 100%;
+}
+
+.card{
+	
+	height: 20%;
+	font-weight: bold;
+}
+
+.alert{
+	
+	margin: 0 auto;
+	
+}

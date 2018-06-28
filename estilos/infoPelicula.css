@@ -1,0 +1,82 @@
+
+.titulo{
+	text-align: center;
+}
+
+.caratula{
+	width: 20%;
+}
+
+.divSinop{
+	margin-top:5%;
+}
+
+.divInfo{
+	width: 50%;
+	float: right;
+	margin-right: 15%;
+}
+
+.txtArea{
+	width:100%;
+	height: 200px;
+	background-color:#c7d2fc;
+}
+
+.divBtn{
+	margin-top: 5%;
+}
+
+#dComentario{
+	
+	margin-top:4%;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#dComentario textarea{
+	width: 100%;
+}
+
+#labelComentario{
+	margin-left: 95%;
+}
+
+.cuadroError{
+	border: 1px solid red;
+}
+
+.textoError{
+	color:red;
+}
+
+.card{
+	margin-bottom: 3%;
+}
+
+.datos{
+	
+	float: right;
+	
+}
+
+
+
+.card-footer a{
+	color: #FF0000;
+
+}
+
+.card-title{
+	width:30%;
+	background-color: red;
+	margin-right: 4%;
+}
+	
+#dComent{
+	width: 20%;
+	margin-top: 4%;
+	margin-left: auto;
+	margin-right: auto;
+}

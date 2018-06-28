@@ -1,0 +1,36 @@
+#tButacas img{
+	
+	width:85%;
+
+	
+}
+
+#tButacas {
+	margin-top:-5%;
+    /*border: 1px solid black;*/
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#tButacas tr td {
+
+	width:60px;;
+}
+
+#iPantalla{
+	margin-left:28%;
+    width:45%;
+}
+
+#infoButacas {
+	width:45%;
+	margin-left:auto;
+	margin-right: auto;
+
+}
+
+#infoButacas img {
+	margin-left:3%;
+	  width:5%;
+	
+}

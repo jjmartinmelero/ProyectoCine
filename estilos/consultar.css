@@ -1,0 +1,21 @@
+#img {
+
+	width:20%;
+	
+}
+
+#imgP {
+	
+
+	width:70%;
+	
+}
+
+.card-body{
+	/*background-color: red;*/
+}
+
+#tarjeta {
+	margin-right: auto;
+	margin-left: auto;
+}

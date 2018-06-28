@@ -1,0 +1,47 @@
+
+
+
+#todo {
+	margin: 0 auto;
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: flex-start;
+	align-content: stretch;
+}
+
+#todo .card {
+	margin-top: 3%;
+	width: 18rem;
+	height: 550px;
+}
+
+img {
+	/*margin-left:auto;
+	margin-right: auto;
+	margin-top: 3%;
+	max-width:200px;*/
+	max-height: 350px;
+	min-height: 350px;
+}
+
+.botones{
+	width:100%;
+	position:absolute; 
+	bottom:5%;
+}
+
+.btn{
+width:40%;
+padding:4%;
+
+}
+
+label{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+

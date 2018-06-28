@@ -1,0 +1,61 @@
+/*Se encarga de realizar el div del contenido en ponerlo en 
+color negro, que es comun en todo el sitio web excepto login*/
+
+/*DIV DEL CONTENIDO ****************************************/
+#todo {
+		width: 85%;
+		margin-right: auto;
+		margin-left: auto;
+		/*color: white;*/
+		margin-top: 2%;
+
+}
+
+.filtrado {
+	border: 0.5px solid black;
+	width: 40%;
+			margin-right: auto;
+		margin-left: auto;
+}
+
+
+/*CLASE PARA LAS TABLAS************************************/
+.claseTabla{
+		font-size: 0.99em;
+		margin-left:auto;
+		margin-right: auto;
+		width: 99%; 
+		border-collapse: collapse;
+		padding-bottom: 2%;
+}
+
+table.claseTabla td, table.claseTabla th { 
+		padding: 6px; 
+		border: 1px solid #ccc; 
+		text-align: left; 
+		
+		}
+		
+table.claseTabla tr:nth-of-type(odd) { 
+		background: #eee; 
+		color:black;
+	}
+		
+table.claseTabla th { 
+		background: black; 
+		color: white; 
+		font-weight: bold; 
+	}
+	
+
+.table-wrapper {
+    display: block;
+    max-height: 300px;
+    overflow-y: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+.centrado {
+	margin-right: auto;
+	margin-left: auto;
+}

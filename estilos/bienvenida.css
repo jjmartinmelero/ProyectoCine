@@ -1,0 +1,40 @@
+html, body {
+	
+	background-image: url("/imagenes/bienvenida5.jpg");
+
+  background-position: center center;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+  background-size: cover;
+
+
+}
+
+#container {
+	
+	margin-top: 3%;
+	text-align: center;
+	
+}
+
+h1{
+	font-size: 450%;
+	font-weight: bold;
+	color: white;
+}
+
+#boton{
+	
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15%;
+}
+.btn {
+
+	width:100%;
+
+}
